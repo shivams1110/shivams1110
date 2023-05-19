@@ -10,8 +10,8 @@ Here are some ideas to get you started:
 
 ![](https://komarev.com/ghpvc/?username=shivams1110&color=green)
 
-- 🔭 I’m currently working at Karnival
-- 🌱 I’m currently learning Flutter, Jetpack Compose(Android) and started swiftUI
+- 🔭 I’m currently working at Karnival as Mobile Application Developer
+- 🌱 I’m currently learning Flutter & Dart
 
 - 💬 Ask me about Flutter
 - 📫 How to reach me: [Twitter - @shivams_me](https://twitter.com/shivams_me) 
